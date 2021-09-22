@@ -1,0 +1,65 @@
+body {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 14px;
+}
+ul {
+    text-align: center;
+    margin-bottom: 90px;
+    margin-top: 77px;
+}
+li {
+    display: inline;
+    margin-right: 90px;
+    text-transform: uppercase;
+}
+li:hover {
+    color: cornflowerblue;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 422px;
+    height: 320px;
+}
+p {
+    margin: 0 auto;
+    text-align: justify;
+    width: 414px;
+}
+.caption {
+    text-transform: uppercase;
+}
+h2 {
+    text-align: left;
+    font-size: 29px;
+    margin-left: 25px;
+}
+div {
+    display: inline-block;
+    width: 474px;
+    height: 480px;
+    margin-left: 20px;
+    margin-bottom: 120px;
+}
+section {
+    box-sizing: border-box;
+    width: 1000px;
+    height: 502px;
+    margin-left: 143px;
+    margin-right: 150px;
+}
+button {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 560px;
+    margin-top: 1260px;
+    margin-bottom: 70px;
+    width: 165px;
+    height: 61px;
+    color: #626262;
+    background-color: white;
+    border: 1px solid #626262;
+}
